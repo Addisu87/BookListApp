@@ -1,12 +1,16 @@
 # Project Name
 
+Book List Application
+
 > Description the project.
+> -- An application which adds and deletes books at local storage.
 
 ## Built With
 
 - Major languages
+  --HTML and JavaScript
 - Frameworks
-- Technologies used
+  -- Bootstrap
 
 ## Live Demo (if available)
 
@@ -48,9 +52,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Traversy Media
 
 ## 📝 License
 
